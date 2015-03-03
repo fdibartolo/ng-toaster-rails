@@ -1,5 +1,7 @@
 # ng-toaster-rails
 
+[![Gem Version](https://badge.fury.io/rb/ng-toaster-rails.svg)](http://badge.fury.io/rb/ng-toaster-rails)
+
 ng-toaster-rails wraps the [AngularJS-Toaster](https://github.com/jirikavi/AngularJS-Toaster) library in a rails engine for simple use with the asset pipeline provided by Rails 3.1 and higher. The gem includes the development (non-minified) source for ease of exploration. The asset pipeline will minify in production.
 
 For more info on customizing the library, please refer to the [doc](https://github.com/jirikavi/AngularJS-Toaster)
