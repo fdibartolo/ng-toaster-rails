@@ -1,6 +1,6 @@
 module NgToaster
   module Rails
-    TOASTER_VERSION = "0.4.10"
-    VERSION        = "#{TOASTER_VERSION}.1"
+    TOASTER_VERSION = "0.4.11"
+    VERSION        = "#{TOASTER_VERSION}.0"
   end
 end
